@@ -1,2 +1,2 @@
 # NexaLearning
-NexaLearning is a based online learning platform
+NexaLearning is AI based online learning platform
